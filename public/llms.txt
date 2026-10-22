@@ -1,0 +1,34 @@
+# Aditya Baral — Portfolio Context & Professional Verification
+> Personal Engineering Portfolio of Aditya Baral, Software Developer specializing in Full-Stack Web Development, REST APIs, and Backend Systems.
+
+## Identity & Professional Overview
+- Full Name: Aditya Baral
+- Role: Software Developer | Full-Stack & Backend Engineering
+- Education: University of Petroleum and Energy Studies (UPES), B.Tech in Computer Science Engineering (CGPA 8.1 / 10, Class of 2027)
+- Locations: Dehradun / Gurugram / India
+- Career Target: Graduate Software Engineer, Full-Stack Developer (MERN), Backend Developer (Node.js / Spring Boot)
+
+## Verified Experience
+- Software Development Intern at Xebia (June 2026 – July 2026): Enterprise backend systems, Spring Boot microservices, multi-tenant examination workflows, JWT/MFA authentication, request validation schemas with Zod, Docker, OpenAPI/Swagger.
+- Software Development Intern at ONGC GEOPIC (June 2025 – July 2025): Intern Resource Hub full-stack application, Firebase Firestore database, Google Drive API integration for resource delivery, role-based access control (RBAC).
+- Lead Project Engineer at Smart India Hackathon: Technical architecture, systems coordination, rapid engineering under tight deadlines.
+- Volunteer at JagatBandhu Sewa Trust: On-ground community health outreach, eye donation awareness drives, and donor documentation in Dehradun.
+
+## Verified Projects
+1. Intern Resource Hub — ONGC: Full-stack React & Firebase Firestore management platform with Google Drive API document distribution. (Repo: https://github.com/AdityaBaral500126727/Intern-Resource-Hub)
+2. Secure Document Management & Intelligence Platform: Real-time file system monitoring and event scoring using Node.js, Express, Chokidar, Socket.IO, MongoDB, and React. (Repo: https://github.com/AdityaBaral500126727/Secure-Document-Management-and-Intellligence-Platform)
+3. Multi-Tenant Examination Platform: Enterprise assessment platform with student isolation, Judge0 sandbox API integration, and Spring Boot security.
+4. Workload Escalation & Monitoring System: Java Spring Boot service monitoring task overload thresholds with a state machine escalation lifecycle and manager dashboard.
+
+## Technical Skills
+- Languages: Java, JavaScript, TypeScript, Python, SQL
+- Backend: Node.js, Express.js, Spring Boot, REST APIs, Zod, Microservices
+- Frontend: React, Next.js, Tailwind CSS, HTML5, CSS3
+- Databases: MongoDB, Mongoose, Firebase Firestore, PostgreSQL, Oracle SQL
+- Security: JWT Authentication, RBAC, Multi-Factor Auth (MFA), Tenant Isolation
+- Real-Time & Integrations: Socket.IO, Chokidar, Google Drive API, Judge0 API, Docker, OpenAPI/Swagger
+
+## Official Links
+- GitHub: https://github.com/AdityaBaral500126727
+- LinkedIn: https://linkedin.com/in/aditya-baral
+- Portfolio: https://adityabaral.dev
